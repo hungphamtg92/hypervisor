@@ -1,0 +1,21 @@
+virtual machine
+1. they works independently
+2. little more than a file
+3. be configured to use not only a different operating system
+
+two types hypervisor: type
+type 1 and type 2
+type 1: bare metal as os, e.g xen, vmware's esxi, microsoft's hyper-V, KVM
+type 2: hosted hypervisor, most frequently referred to as virtual machine monitor
+VMware wrokstation, vmware player, virtualbox, parallel desktop
+
+advantage:
+1. Saving money
+2. Simplified management
+3. threat isolation
+4. Backup and recovery
+disadvantages
+1. compromise performance
+2. complexity
+3. risk
+4. license cost
